@@ -1,12 +1,12 @@
 # Health-Insurance-Cross-Sell-Vehicle-Insurance
 
-Problem Statement
+####**Problem Statement**
 
 Our client, an insurance company, seeks assistance in developing a model to forecast whether policyholders from the previous year would exhibit interest in the Vehicle Insurance offered by the company. As an insurance policy entails a guarantee of compensation for specified loss, damage, illness, or death in exchange for a premium payment, the client aims to extend its services to customers who might consider purchasing Vehicle Insurance.
 
 The objective is to predict customer interest in Vehicle Insurance to enable targeted communication strategies, optimizing the company's business model and revenue generation. Leveraging demographic data (gender, age, region code type), vehicle information (vehicle age, damage), and policy details (premium, sourcing channel), the model aims to identify potential customers receptive to Vehicle Insurance offerings.
 
-Project Summary -
+####**Project Summary -**
 
 
 Our project revolves around assisting an insurance company in enhancing its business model by predicting customer interest in Vehicle Insurance. The company, which already provides Health Insurance to its customers, seeks to diversify its offerings and tap into the market for Vehicle Insurance. By leveraging predictive modeling techniques, we aim to identify potential customers from the previous year who are likely to show interest in purchasing Vehicle Insurance.
@@ -23,7 +23,7 @@ Once we have identified the best-performing model, we will fine-tune its hyperpa
 
 In conclusion, our project aims to leverage data science and predictive modeling techniques to help the insurance company identify potential customers interested in Vehicle Insurance. By accurately predicting customer behavior, the company can enhance its business strategies, improve customer satisfaction, and drive revenue growth in the competitive insurance market.
 
-Conclusion
+**Conclusion**
 
 We started by loading the dataset and conducted checks for null values and duplicates, finding none.
 Through Exploratory Data Analysis (EDA), we observed that younger customers show more interest in vehicle insurance, particularly those aged below 30.
