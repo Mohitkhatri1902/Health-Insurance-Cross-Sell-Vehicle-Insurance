@@ -26,12 +26,12 @@ In conclusion, our project aims to leverage data science and predictive modeling
 **Conclusion**
 
 - We started by loading the dataset and conducted checks for null values and duplicates, finding none.
-Through Exploratory Data Analysis (EDA), we observed that younger customers show more interest in vehicle insurance, particularly those aged below 30.
-Customers with vehicles older than 2 years and those with damaged vehicles were more likely to express interest in vehicle insurance.
-Key variables such as Age, Previously_Insured, and Annual_Premium were found to have significant impact on the target variable.
-Feature selection using the Mutual Information technique identified Previously_Insured as the most influential feature, indicating no correlation between it and the target variable.
-To address the highly imbalanced target variable, we applied Random Over Sample resampling technique.
-Feature scaling techniques were employed to normalize the data for uniform processing by ML algorithms.
-Machine Learning Algorithms were applied to predict customer interest in Vehicle Insurance, with Logistic Regression yielding an accuracy of 78%, and XGBClassifier achieving an accuracy of 81%.
-Notably, the Random Forest model outperformed others with an accuracy of approximately 93% and ROC_AUC score of 94%.
-In conclusion, Random Forest emerges as the superior model compared to others evaluated.
+- Through Exploratory Data Analysis (EDA), we observed that younger customers show more interest in vehicle insurance, particularly those aged below 30.
+- Customers with vehicles older than 2 years and those with damaged vehicles were more likely to express interest in vehicle insurance.
+- Key variables such as Age, Previously_Insured, and Annual_Premium were found to have significant impact on the target variable.
+- Feature selection using the Mutual Information technique identified Previously_Insured as the most influential feature, indicating no correlation between it and the target variable.
+- To address the highly imbalanced target variable, we applied Random Over Sample resampling technique.
+- Feature scaling techniques were employed to normalize the data for uniform processing by ML algorithms.
+- Machine Learning Algorithms were applied to predict customer interest in Vehicle Insurance, with Logistic Regression yielding an accuracy of 78%, and XGBClassifier achieving an accuracy of 81%.
+- Notably, the Random Forest model outperformed others with an accuracy of approximately 93% and ROC_AUC score of 94%.
+- In conclusion, Random Forest emerges as the superior model compared to others evaluated.
